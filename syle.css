@@ -1,0 +1,41 @@
+/* ESTILOS GENERALES: Aplican a toda la página */
+body {
+font-family: 'Arial', sans-serif; /* Tipografía principal
+*/
+line-height: 1.6; /* Espaciado entre líneas */
+margin: 0; /* Elimina márgenes predeterminados */
+padding: 0; /* Elimina relleno predeterminado */
+background-color: #f4f4f4; /* Color de fondo */
+color: #333; /* Color de texto principal */
+}
+
+Diseño de Interfaces y Usabilidad - 4° - PROA
+
+/* ENCABEZADO: Estilos para la sección <header> */
+header {
+background-color: #2c3e50; /* Color de fondo (azul
+oscuro) */
+color: white; /* Color del texto */
+text-align: center; /* Alineación del texto */
+padding: 1rem 0; /* Espaciado interno (1rem arriba/abajo,
+0 a los lados) */
+}
+/* SECCIONES: Estilos para <section> */
+section {
+margin: 1rem; /* Margen externo */
+padding: 1rem; /* Relleno interno */
+background-color: white; /* Fondo blanco */
+border-radius: 5px; /* Bordes redondeados */
+}
+/* LISTA DE PROYECTOS: Estilos para <ul> */
+ul {
+list-style-type: square; /* Viñetas cuadradas */
+}
+/* PIE DE PÁGINA: Estilos para <footer> */
+footer {
+text-align: center; /* Centrar texto */
+padding: 1rem 0; /* Espaciado interno */
+background-color: #2c3e50; /* Mismo color que el header
+*/
+color: white; /* Texto blanco */
+}
